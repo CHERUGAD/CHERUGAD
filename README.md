@@ -7,7 +7,7 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love automating workflows and exploring ML-powered applications!**
 
-🚀 Check out my projects on **[GitHub](https://github.com/CHERUGAD)**  
+
 
 ---
 
